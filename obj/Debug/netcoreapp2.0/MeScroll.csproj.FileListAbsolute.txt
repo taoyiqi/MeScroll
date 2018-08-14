@@ -1,0 +1,11 @@
+D:\Code\Test\MeScroll\bin\Debug\netcoreapp2.0\MeScroll.deps.json
+D:\Code\Test\MeScroll\bin\Debug\netcoreapp2.0\MeScroll.runtimeconfig.json
+D:\Code\Test\MeScroll\bin\Debug\netcoreapp2.0\MeScroll.runtimeconfig.dev.json
+D:\Code\Test\MeScroll\bin\Debug\netcoreapp2.0\MeScroll.dll
+D:\Code\Test\MeScroll\bin\Debug\netcoreapp2.0\MeScroll.pdb
+D:\Code\Test\MeScroll\obj\Debug\netcoreapp2.0\MeScroll.csprojAssemblyReference.cache
+D:\Code\Test\MeScroll\obj\Debug\netcoreapp2.0\MeScroll.csproj.CoreCompileInputs.cache
+D:\Code\Test\MeScroll\obj\Debug\netcoreapp2.0\MeScroll.AssemblyInfoInputs.cache
+D:\Code\Test\MeScroll\obj\Debug\netcoreapp2.0\MeScroll.AssemblyInfo.cs
+D:\Code\Test\MeScroll\obj\Debug\netcoreapp2.0\MeScroll.dll
+D:\Code\Test\MeScroll\obj\Debug\netcoreapp2.0\MeScroll.pdb
